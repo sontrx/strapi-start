@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_learn_lesson_thumbs",
+  "info": {
+    "displayName": "lesson_thumb",
+    "icon": "image"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "alt": {
+      "type": "string"
+    },
+    "redirect_link": {
+      "type": "string"
+    }
+  }
+}

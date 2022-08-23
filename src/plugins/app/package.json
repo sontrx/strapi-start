@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "App",
+    "description": "Description of App plugin",
+    "kind": "plugin",
+    "displayName": "App"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "sontrx"
+  },
+  "maintainers": [
+    {
+      "name": "sontrx"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
