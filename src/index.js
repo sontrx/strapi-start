@@ -1,5 +1,4 @@
 'use strict';
-
 module.exports = {
   /**
    * An asynchronous register function that runs before
@@ -17,6 +16,6 @@ module.exports = {
    * run jobs, or perform some special logic.
    */
   bootstrap({strapi}) {
-    // console.log(strapi);
+    // console.log(strapi.db.config.models);
   },
 };
